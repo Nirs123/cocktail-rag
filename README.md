@@ -14,7 +14,7 @@ Ce projet a été organisé en 5 étapes, correspondant aux 5 notebooks dans le 
 
 De plus, il y a une application Streamlit permettant de tester le projet, et ce dans le dossier `streamlit_app`.
 
-En étant dans ce dossier, il suffit d'exécuter la commande `streamlit run app.py` pour lancer l'application.
+En étant à la racine du projet, il suffit d'exécuter la commande `streamlit run streamlit_app/app.py` pour lancer l'application.
 
 Il y a aussi deux dossier `geo` et `img` qui sont utiles à certains notebooks.
 
