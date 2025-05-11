@@ -5,7 +5,7 @@ import sqlite3
 
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-conn = sqlite3.connect('../data/database.db')
+conn = sqlite3.connect('database.db')
 query = 'SELECT * FROM cocktails'
 cocktails_df = pd.read_sql_query(query, conn)
 
