@@ -12,7 +12,7 @@ Ce projet a été organisé en 5 étapes, correspondant aux 5 notebooks dans le 
 - **4-dataset_eval** : création du dataset d'évaluation pour les méthodes de recherche
 - **5-benchmark_distance** : comparaison des méthodes de recherche de distance
 
-De plus, il y a une application Streamlit permettant de tester le projet, et ce dans le dossier `streamlit_app`.
+De plus, il y a une application Streamlit permettant de tester le projet, et ce dans le dossier `streamlit_app` également disponible sur [ce lien](https://cocktail-rag.streamlit.app/).
 
 En étant à la racine du projet, il suffit d'exécuter la commande `streamlit run streamlit_app/app.py` pour lancer l'application.
 
